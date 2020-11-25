@@ -1,0 +1,8 @@
+[package]
+name = "test_monitor"
+version = "0.1.0"
+authors = ["Zotho <svjatoslavalekseef2@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+macroquad = { git = "https://github.com/not-fl3/macroquad.git", rev = "5d8826d" }
